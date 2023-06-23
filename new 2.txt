@@ -30,3 +30,60 @@ git branch -d localBranchName
 
 // delete branch remotely
 git push origin --delete remoteBranchName
+
+here we have some importent command
+=> move one branch to another branch 
+$ git switch branchName
+
+=> for creating  local branch 
+
+$ git checkout -b branchName
+
+
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+here we have some importent command
+=> move one branch to another branch 
+$ git switch branchName
+
+=> for creating  local branch 
+
+$ git checkout -b branchName
+
+
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+here we have some importent command
+=> move one branch to another branch 
+$ git switch branchName
+
+=> for creating  local branch 
+
+$ git checkout -b branchName
+
+
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
+here we have some importent command
+=> move one branch to another branch 
+$ git switch branchName
+
+=> for creating  local branch 
+
+$ git checkout -b branchName
+
+
+// delete branch locally
+git branch -d localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
