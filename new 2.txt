@@ -39,6 +39,9 @@ $ git switch branchName
 
 $ git checkout -b branchName
 
+kfjdjfkd
+fdjfjd
+fdjfjkdjf
 
 // delete branch locally
 git branch -d localBranchName
